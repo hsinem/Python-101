@@ -1,4 +1,4 @@
-## Fibonacci Program
+# Fibonacci Program
 i = int(input("Step:"))
 n1, n2 = 0, 1
 counter = 0
