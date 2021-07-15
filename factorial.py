@@ -1,4 +1,4 @@
-## Factorial Program
+# Factorial Program
 
 n = int(input("Number: "))
 
