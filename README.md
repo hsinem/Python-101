@@ -3,3 +3,4 @@
 ## Basics of python programming language
 
 * Factorial
+* Fibonacci
